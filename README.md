@@ -1,3 +1,3 @@
 # Midsem Examination
 
-IA Project at GIMPA
+IA Project at GIMPA.
